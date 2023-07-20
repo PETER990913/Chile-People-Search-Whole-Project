@@ -1,0 +1,10 @@
+My script is built React.JS for forntend, Node, Express.JS for backend and MongoDB as a database.
+Frontend folder is UI for this site by React.JS
+Auth_Backend folder is a backend for user authentification by Node.JS
+Main_Backend folder is a backend for uploading data to databse by Node.JS
+If you run this script, first please move on to the Auth_backend folder and open cmd prompt and run "node server.js" and keep prompt.
+and then please go to Main_Backend folder and open cmd prompt and run "node server.js" and keep it
+after that, please go to Frontend and open cmd and run "npm start"
+then you can see your site on localhost:3000
+that's all
+ 
